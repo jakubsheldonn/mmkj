@@ -12,9 +12,7 @@
 
     <link href="https://framerusercontent.com/images/WIlhglkiRHYZY3qc6CmQy5bbCM.png" rel="icon" media="(prefers-color-scheme: dark)">
     <!-- Open Graph / Facebook -->
-    <meta property="og:type" content="website">
-
-    <meta property="og:title" content="EVM++  Challenge - Spread the Word! - Artela">
+    <meta property="og:type" content="website">>
 
     <meta property="og:description" content="evm-challenge-spread-the-word">
     <meta property="og:image" content="https://framerusercontent.com/images/0kB37Y3fp0upTDNMJAXtOjw6A.png">
